@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrEkoebve
 - 👀 I’m interested in DevOps and Cloud technologies
 - 🌱 I’m currently learning Docker, SQL, Python and Cloud services
-- 💞️ I’m looking to collaborate on Docker projects
+- 💞️ I’m looking to collaborate on Cloud and DevOps projects
 - 📫 How to reach me zheni.ekoebve@gmail.com
 
 <!---
